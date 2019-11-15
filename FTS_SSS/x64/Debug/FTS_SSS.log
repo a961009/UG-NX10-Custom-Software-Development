@@ -1,0 +1,28 @@
+﻿生成启动时间为 11/15/星期五 14:48:58。
+     1>项目“E:\nxopen\source\FTS_SSS\FTS_SSS\FTS_SSS.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\FTS_SSS.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\VS2010\VC\bin\x86_amd64\CL.exe /c /IE:\NX10\ugopen /Zi /nologo /W3 /WX- /Od /D _CRT_SECURE_NO_WARNINGS /D _SECURE_SCL=0 /D _USRDLL /D _WINDLL /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt ..\FTS_SSS_1.cpp
+         FTS_SSS_1.cpp
+     1>..\FTS_SSS_1.cpp(65): warning C4101: “ex”: 未引用的局部变量
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\VS2010\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\..\application\/FTS_SSS.dll" /INCREMENTAL /NOLOGO /LIBPATH:E:\NX10\ugopen libufun.lib libufun_cae.lib libufun_cam.lib libnxopencpp.lib libnxopencpp_annotations.lib libnxopencpp_assemblies.lib libnxopencpp_bodydes.lib libnxopencpp_cae.lib libnxopencpp_cam.lib libnxopencpp_diagramming.lib libnxopencpp_die.lib libnxopencpp_display.lib libnxopencpp_drafting.lib libnxopencpp_drawings.lib libnxopencpp_facet.lib libnxopencpp_features.lib libnxopencpp_fields.lib libnxopencpp_formboard.lib libnxopencpp_gateway.lib libnxopencpp_geometricanalysis.lib libnxopencpp_geometricutilities.lib libnxopencpp_issue.lib libnxopencpp_layer.lib libnxopencpp_layout2d.lib libnxopencpp_markup.lib libnxopencpp_mechatronics.lib libnxopencpp_modldirect.lib libnxopencpp_motion.lib libnxopencpp_optimization.lib libnxopencpp_options.lib libnxopencpp_partfamily.lib libnxopencpp_pdm.lib libnxopencpp_physmat.lib libnxopencpp_positioning.lib libnxopencpp_preferences.lib libnxopencpp_routing.lib libnxopencpp_shapesearch.lib libnxopencpp_sheetmetal.lib libnxopencpp_sim.lib libnxopencpp_tooling.lib libnxopencpp_userdefinedobjects.lib libnxopencpp_userdefinedtemplate.lib libnxopencpp_validate.lib libnxopencpp_visualreporting.lib libnxopencpp_weld.lib libugopenint.lib libugopenint_cae.lib libugopenint_cam.lib libnxopenuicpp.lib /MANIFEST /ManifestFile:"x64\Debug\FTS_SSS.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\nxopen\application\FTS_SSS.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\..\application\/FTS_SSS.lib" /MACHINE:X64 /DLL x64\Debug\FTS_SSS.dll.embed.manifest.res
+         x64\Debug\FTS_SSS_1.obj
+         FTS_SSS.vcxproj -> E:\nxopen\source\FTS_SSS\FTS_SSS\..\..\..\application\FTS_SSS.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"x64\Debug\FTS_SSS.dll.embed.manifest" /manifest x64\Debug\FTS_SSS.dll.intermediate.manifest D:\VS2010\VC\Include\Manifest\dpiaware.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         FTS_SSS.vcxproj -> E:\nxopen\source\FTS_SSS\FTS_SSS\..\..\..\application\FTS_SSS.dll
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\FTS_SSS.unsuccessfulbuild”。
+         正在对“x64\Debug\FTS_SSS.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\nxopen\source\FTS_SSS\FTS_SSS\FTS_SSS.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.36
